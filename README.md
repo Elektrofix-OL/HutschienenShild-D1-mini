@@ -19,5 +19,5 @@ Am SV1 sind außer die 5 GPio-Zugänge noch Tx, Rx, +5V, +3,3V und GND erausgef�
 Wie zu sehne ist, passen die Kontakthalten nicht ganz, daher haben ich mit einem Cutter die beinden letzten Kontakthalter halbiert. Der elekrische Kontakt wird nicht beeinträchtigt.
 Der Kondensator kann auch größer gewählt werden, bei mir dient er als Glättung, damit die Schaltung nicht ins Schwingen kommt.
 
-#Bauteile
+# Bauteile
 für die Bauteile habe ich eine Liste bei [www.reichelt.de](https://www.reichelt.de/my/1790195) erstellt. 
