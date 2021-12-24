@@ -16,7 +16,7 @@ Am SV1 sind außer die 5 GPio-Zugänge noch Tx, Rx, +5V, +3,3V und GND erausgef�
 ![](https://github.com/Elektrofix-OL/HutschienenShild-D1-mini/blob/main/Foto/Seitenansicht.jpg)
 ![](https://github.com/Elektrofix-OL/HutschienenShild-D1-mini/blob/main/Foto/Seitenansicht_mit%20Wemos.jpg)
 ![](https://github.com/Elektrofix-OL/HutschienenShild-D1-mini/blob/main/Foto/Seitenansicht_ohne_Wemos.jpg)
-Wie zu sehne ist, passen die Kontakthalten nicht ganz, daher haben ich mit einem Cutter die beinden letzten Kontakthalter halbiert. Der elekrische Kontakt wird nicht beeinträchtigt.
+Wie zu sehen ist, passen die Kontakthalten nicht ganz, daher haben ich mit einem Cutter die beinden letzten Kontakthalter halbiert. Der elekrische Kontakt wird nicht beeinträchtigt.
 Der Kondensator kann auch größer gewählt werden, bei mir dient er als Glättung, damit die Schaltung nicht ins Schwingen kommt.
 
 # Bauteile
