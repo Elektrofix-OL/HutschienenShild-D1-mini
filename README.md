@@ -21,3 +21,12 @@ Der Kondensator kann auch größer gewählt werden, bei mir dient er als Glättu
 
 # Bauteile
 für die Bauteile habe ich eine Liste bei [www.reichelt.de](https://www.reichelt.de/my/1790195) erstellt. 
+
+# Lizenz
+Copyright (c) 2021 Elektrofix
+
+Jeder Mensch darf das Projekt benutzen, kopieren und verändern. Der Verkauf ist jedoch verboten und auch nach der Veränderung dürfen auch Teile des Projekten nicht veräußert werden. Ich habt es kostenlos bekommt, also müsst ihr die Änderungen auch Kostenlos weitergeben!
+
+Der obige Urheberrechtshinweis und dieser Genehmigungshinweis müssen in alle Kopien oder wesentlichen Teile der Software aufgenommen werden.
+
+Alles macht ihr aus eigenes Risiko, Haftung und Gewährleistung über nehme ich keine.
