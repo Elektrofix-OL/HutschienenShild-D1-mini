@@ -25,7 +25,7 @@ für die Bauteile habe ich eine Liste bei [www.reichelt.de](https://www.reichelt
 # Lizenz
 Copyright (c) 2021 Elektrofix
 
-Jeder Mensch darf das Projekt benutzen, kopieren und verändern. Der Verkauf ist jedoch verboten und auch nach der Veränderung dürfen auch Teile des Projekten nicht veräußert werden. Ich habt es kostenlos bekommt, also müsst ihr die Änderungen auch Kostenlos weitergeben!
+Jeder Mensch darf das Projekt benutzen, kopieren und verändern. Der Verkauf ist jedoch verboten und auch nach der Veränderung dürfen Teile des Projekten nicht veräußert werden. Ihr habt es kostenlos bekommt, also müsst ihr die Änderungen auch Kostenlos weitergeben! Geld machen mit meinen Ideen ist nicht!
 
 Der obige Urheberrechtshinweis und dieser Genehmigungshinweis müssen in alle Kopien oder wesentlichen Teile der Software aufgenommen werden.
 
